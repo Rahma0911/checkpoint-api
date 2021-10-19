@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+.userList{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.userCard{
+  width: 18rem;
+  height: 190px;
+  margin: 60px 60px;
+}
+.bg{
+  background: #49e289;
+}
